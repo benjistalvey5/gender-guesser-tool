@@ -1,6 +1,6 @@
 # Gender Guesser Tool
 
-A Python tool for predicting gender from first names using statistical data from Texas marriage records (1968-2015).
+A Python tool for predicting gender from first names using data from Texas marriage records (1968-2015).
 
 ## Author
 **Benji Stalvey** - *Creator and Developer*
